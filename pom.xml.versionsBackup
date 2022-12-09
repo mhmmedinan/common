@@ -11,7 +11,7 @@
 
 	<groupId>io.github.mhmmedinan</groupId>
 	<artifactId>common</artifactId>
-	<version>1.2.8</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<build>
 		<plugins>
 			<plugin>
